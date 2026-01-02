@@ -1,0 +1,35 @@
+name: Mirror to GitLab
+
+on:
+  push:
+    branches: [main]
+    tags: ["*"]
+  workflow_dispatch:
+
+jobs:
+  mirror:
+    if: ${{ secrets.GITLAB_SSH_PRIVATE_KEY != '' && secrets.GITLAB_SSH_URL != '' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup SSH agent
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.GITLAB_SSH_PRIVATE_KEY }}
+
+      - name: Add GitLab to known_hosts
+        run: |
+          mkdir -p ~/.ssh
+          ssh-keyscan gitlab.com >> ~/.ssh/known_hosts
+
+      - name: Push to GitLab
+        env:
+          GITLAB_SSH_URL: ${{ secrets.GITLAB_SSH_URL }}
+        run: |
+          git remote add gitlab "$GITLAB_SSH_URL"
+          git push --prune gitlab "refs/heads/*:refs/heads/*"
+          git push --prune gitlab "refs/tags/*:refs/tags/*"

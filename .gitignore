@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.env
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data and artifacts (do not commit large/private files)
+data/raw/
+data/processed/
+data/indexed/
+artifacts/
+outputs/
+checkpoints/
+models/
+wandb/
+mlruns/
+
+# PDFs (commit only final reports if you want)
+# *.pdf
+
+# MkDocs build output
+site/

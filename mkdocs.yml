@@ -1,0 +1,51 @@
+site_name: LLM foundations portfolio
+site_description: 'Self-directed curriculum portfolio for a Master''s in AI (UT Austin)
+  – tracks: models/LLMs, math/stats, engineering/MLOps.'
+theme:
+  name: material
+  language: en
+  features:
+  - navigation.instant
+  - navigation.tabs
+  - navigation.sections
+  - navigation.top
+  - search.suggest
+  - search.highlight
+  - content.code.copy
+plugins:
+- search
+markdown_extensions:
+- admonition
+- footnotes
+- tables
+- toc
+- pymdownx.details
+- pymdownx.superfences
+- pymdownx.inlinehilite
+- pymdownx.snippets
+nav:
+- Home: index.md
+- Roadmap: roadmap.md
+- Projects: projects.md
+- Learning log: learning_log.md
+- Admission package:
+  - Background: Background_for_MS_in_AI.md
+  - Mapping to prerequisites: Mapping_to_MS_prerequisites.md
+  - Review checklist: portfolio_review_checklist.md
+- Ops:
+  - GitLab mirror: gitlab_mirror_setup.md
+- Terms:
+  - Term 1 summary: terms/term1_summary.md
+  - Term 2 summary: terms/term2_summary.md
+  - Term 3 summary: terms/term3_summary.md
+  - Term 4 summary: terms/term4_summary.md
+  - Term 5 summary: terms/term5_summary.md
+  - Term 6 summary: terms/term6_summary.md
+- Study plans:
+  - Route 1 – models and llms: roadmaps/route_1_models_llms.md
+  - Route 2 – math and statistics: roadmaps/route_2_math_stats.md
+  - Route 3 – engineering and mlops: roadmaps/route_3_engineering_mlops.md
+  - Integrated plan: roadmaps/integrated_roadmap.md
+repo_url: https://github.com/[your-username]/llm-foundations-portfolio
+repo_name: '[your-username]/llm-foundations-portfolio'
+edit_uri: edit/main/docs/
