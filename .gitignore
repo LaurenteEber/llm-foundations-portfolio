@@ -35,3 +35,6 @@ mlruns/
 
 # MkDocs build output
 site/
+
+# drafts (docs)
+docs/gitlab_mirror_setup.md
