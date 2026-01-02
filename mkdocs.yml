@@ -46,6 +46,6 @@ nav:
   - Route 2 – math and statistics: roadmaps/route_2_math_stats.md
   - Route 3 – engineering and mlops: roadmaps/route_3_engineering_mlops.md
   - Integrated plan: roadmaps/integrated_roadmap.md
-repo_url: https://github.com/[your-username]/llm-foundations-portfolio
-repo_name: '[your-username]/llm-foundations-portfolio'
+repo_url: https://github.com/laurenteeber/llm-foundations-portfolio
+repo_name: 'laurenteeber/llm-foundations-portfolio'
 edit_uri: edit/main/docs/

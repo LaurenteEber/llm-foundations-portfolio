@@ -15,7 +15,7 @@ It contains:
 
 This meta-repository is also published as a GitHub Pages site:
 
-- https://[your-username].github.io/llm-foundations-portfolio/
+- https://laurenteeber.github.io/llm-foundations-portfolio/
 
 If you fork or rename the repository, update the URL accordingly.
 
