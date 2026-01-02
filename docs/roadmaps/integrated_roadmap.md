@@ -1,4 +1,4 @@
-# Plan integral de estudio – roadmap por trimestres (versión auditada y optimizada)
+# Plan integral de estudio – roadmap por trimestres
 
 ## 0. Cambios clave tras la auditoría
 

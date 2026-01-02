@@ -27,6 +27,6 @@ A checklist version is available in **Review checklist**.
 
 ## Contact
 
-- Name: [Your full name]
-- Email: [your.email@example.com]
-- GitHub: https://github.com/[your-username]
+- Name: Eber Laurente
+- Email: laurente.eber@outlook.com
+- GitHub: [https://github.com/LaurenteEber](https://github.com/LaurenteEber)

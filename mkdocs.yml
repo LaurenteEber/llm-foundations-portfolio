@@ -32,8 +32,8 @@ nav:
   - Background: Background_for_MS_in_AI.md
   - Mapping to prerequisites: Mapping_to_MS_prerequisites.md
   - Review checklist: portfolio_review_checklist.md
-- Ops:
-  - GitLab mirror: gitlab_mirror_setup.md
+# - Ops:
+#   - GitLab mirror: gitlab_mirror_setup.md
 - Terms:
   - Term 1 summary: terms/term1_summary.md
   - Term 2 summary: terms/term2_summary.md

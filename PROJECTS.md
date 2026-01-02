@@ -33,5 +33,5 @@ Each project is designed to be reviewed independently and includes:
 - Once created, replace `Repository` with a GitHub link, e.g.:
 
 ```text
-[`ml-classic-portfolio`](https://github.com/<user>/ml-classic-portfolio)
+[`ml-classic-portfolio`](https://github.com/laurenteeber/ml-classic-portfolio)
 ```

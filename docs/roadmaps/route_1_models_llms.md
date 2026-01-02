@@ -1,4 +1,4 @@
-# Ruta 1: modelos, deep learning y llms (versión auditada y optimizada)
+# Ruta 1: modelos, deep learning y llms
 
 ## 0. Cambios clave tras la auditoría
 

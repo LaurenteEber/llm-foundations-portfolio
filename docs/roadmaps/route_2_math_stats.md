@@ -1,4 +1,4 @@
-# Ruta 2: matemática y estadística para IA y llms (versión auditada y optimizada)
+# Ruta 2: matemática y estadística para IA y llms
 
 ## 0. Cambios clave tras la auditoría
 

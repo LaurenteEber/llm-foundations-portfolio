@@ -1,4 +1,4 @@
-# Ruta 3: ingeniería, sistemas y mlops para IA y llms (versión auditada y optimizada)
+# Ruta 3: ingeniería, sistemas y mlops para IA y llms
 
 ## 0. Cambios clave tras la auditoría
 
