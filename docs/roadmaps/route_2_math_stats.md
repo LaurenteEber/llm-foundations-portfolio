@@ -1,11 +1,5 @@
 # Ruta 2: matemática y estadística para IA y llms
 
-## 0. Cambios clave tras la auditoría
-
-- Se añadió una fase explícita de **Markov y MDPs** para soportar planificación/RL (brecha B).
-- Se reforzó la parte de **estadística aplicada a evaluación**: bootstrap, comparaciones pareadas y comparaciones múltiples.
-- Se incluyó un bloque más explícito de **inferencia bayesiana práctica** como apoyo a razonamiento bajo incertidumbre.
-
 ## 1. Propósito y criterio de diseño
 
 Esta ruta cubre el mínimo “profesional” de matemática y estadística para:

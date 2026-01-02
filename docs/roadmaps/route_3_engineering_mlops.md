@@ -1,11 +1,5 @@
 # Ruta 3: ingeniería, sistemas y mlops para IA y llms
 
-## 0. Cambios clave tras la auditoría
-
-- Se incorporó una fase explícita de **fundamentos CS** (brecha A) con un repo de evidencia.
-- Se reforzó **responsible AI** (brecha C): cada proyecto debe documentar riesgos, mitigaciones y límites.
-- Se ajustó el orden: primero prerequisitos CS + estándar de repos, luego arquitectura, datos, cómputo y llmops.
-
 ## 1. Propósito y criterio de diseño
 
 - Construir proyectos reproducibles, mantenibles y evaluables.

@@ -1,13 +1,5 @@
 # Plan integral de estudio – roadmap por trimestres
 
-## 0. Cambios clave tras la auditoría
-
-- Se añadió explícitamente:
-  - **Brecha A:** cs fundamentals (estructuras de datos, algoritmos, complejidad) con un repo de evidencia.
-  - **Brecha B:** RL y planificación/búsqueda con un micro-proyecto.
-  - **Brecha C:** responsible AI (ética y gobernanza) como entregable transversal en informes.
-- Se mantuvo el foco en llms, pero se mejoró la cobertura de IA “general” para que el portafolio sea convincente ante admisión y útil académicamente.
-
 ## 1. Supuestos generales del plan
 
 - **Opción estándar:** 6 trimestres (≈ 18 meses).

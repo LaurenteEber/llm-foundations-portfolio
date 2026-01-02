@@ -1,11 +1,5 @@
 # Ruta 1: modelos, deep learning y llms
 
-## 0. Cambios clave tras la auditoría
-
-- Se añadió una fase explícita de **búsqueda/planificación y aprendizaje por refuerzo** (brecha B) para cubrir pilares de IA más allá de llms y conectar con RLHF.
-- Se reforzó el bloque de **evaluación** (más allá de una métrica) y el bloque de **eficiencia** (coste y serving), que suelen ser puntos débiles en portafolios.
-- Se incluyó un módulo opcional de **generativos más allá de texto** (difusión/multimodal) para amplitud académica.
-
 ## 1. Propósito y criterio de diseño
 
 Esta ruta prepara dos cosas a la vez:

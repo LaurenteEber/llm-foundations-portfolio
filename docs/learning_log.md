@@ -11,10 +11,10 @@ The goal is to provide evidence of consistent work and to make progress reviewab
 
 | Date (YYYY-MM-DD) | Term | Track | Topic / activity | Resource | Output / evidence |
 |---|---:|---|---|---|---|
-| 2026-01-01 | 0 | Track 3 | Meta-repo initial structure | Self | Initial commit (this repo) |
-| YYYY-MM-DD | 1 | Track 2 | (example) Linear algebra: projections | Strang, Ch. 4 | Notes + solved exercises (link) |
+| 2026-01-02 | 0 | Track 3 | Meta-repo initial structure | Self | Initial commit (this repo) |
+<!-- | YYYY-MM-DD | 1 | Track 2 | (example) Linear algebra: projections | Strang, Ch. 4 | Notes + solved exercises (link) |
 | YYYY-MM-DD | 1 | Track 1 | (example) Logistic regression baseline | Géron, Ch. 4 | Model + metrics in `ml-classic-portfolio` |
-| YYYY-MM-DD | 1 | Track 3 | (example) Add pytest checks for data schema | Project repo | CI passing + test suite link |
+| YYYY-MM-DD | 1 | Track 3 | (example) Add pytest checks for data schema | Project repo | CI passing + test suite link | -->
 
 ## Notes
 
